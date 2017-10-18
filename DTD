@@ -1,0 +1,11 @@
+<!DOCTYPE FAQ
+[
+<!ELEMENT FAQ (query1, query2, query3, query4, query5)>
+<!ELEMENT query1 (#PCDATA)>
+<!ELEMENT answer1 (#PCDATA)>
+<!ELEMENT query2 (#PCDATA)>
+ <!ELEMENT answer2 (#PCDATA)>
+<!ELEMENT query3 (#PCDATA)>
+ <!ELEMENT answer3 (#PCDATA)>
+<!ELEMENT query4 (#PCDATA)>
+]>
